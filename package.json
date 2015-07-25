@@ -1,0 +1,22 @@
+{
+  "name": "B",
+  "version": "0.0.0",
+  "description": "A boilerplate for F2E development",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liaa/B.git"
+  },
+  "keywords": [
+    "F2E"
+  ],
+  "author": "kidliaa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liaa/B/issues"
+  },
+  "homepage": "https://github.com/liaa/B"
+}

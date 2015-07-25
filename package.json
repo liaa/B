@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/liaa/B/issues"
   },
-  "homepage": "https://github.com/liaa/B"
+  "homepage": "https://github.com/liaa/B",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "browser-sync": "^2.8.0"
+  }
 }

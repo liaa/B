@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/liaa/B",
   "devDependencies": {
+    "browser-sync": "^2.8.0",
     "gulp": "^3.9.0",
-    "browser-sync": "^2.8.0"
+    "gulp-less": "^3.0.3"
   }
 }
